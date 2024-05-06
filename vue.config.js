@@ -1,5 +1,5 @@
 const { defineConfig } = require('@vue/cli-service')
 module.exports = defineConfig({
-  publicPath: `/Vue-Task/`,
+  publicPath: `/vue-task/`,
   transpileDependencies: true
 })
