@@ -37,7 +37,7 @@ export default {
   border:  1px dotted black;
   padding: 50px;
   display: flex;
-  justify-content: left;
+  justify-content: end;
   background-color: gray;
 
 }
